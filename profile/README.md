@@ -3,7 +3,13 @@
 <h1>Bem vindo(a), ao IFocus | Plataforma preparatória para o ingresso nos Institutos Federais!</h1>
 As funcionalidades da plataforma que serão desenvolvidas neste projeto visam auxiliar jovens que desejam ingressar na instituição. Isso será feito por meio de uma plataforma preparatória com materiais e ferramentas de estudo, como banco de questões de provas anteriores e videoaulas. Através do acesso, o estudante terá acesso a todo o material de estudos, conteúdos das provas passadas e ferramentas necessárias para uma boa preparação.
 Além disso, este projeto visa atingir majoritariamente jovens da rede pública, que, infelizmente, enfrentam uma estrutura escolar mais precária. Dessa forma, o projeto proporcionará uma formação guiada para o estudante, no qual ele é visto como construtor autônomo do próprio conhecimento, interagindo diretamente com o computador como ferramenta principal de aprendizado 
+
+<h2>Redes Sociais</h2>
+<p><b>Instagram:</b> ifocus.ifrn </p>
+
 <!--
+
+
 
 **Here are some ideas to get you started:**
 
